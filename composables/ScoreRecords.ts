@@ -3723,11 +3723,11 @@ export function useScoreRecords() {
     "Mechanical Lizard": {
       th06: {
         MarisaB: {
-          score: 618316400,
+          score: 626763060,
           status: "excellent",
-          date: "2026-03-17T15:30:00",
+          date: "2026-03-22T15:30:00",
           replay: "th6_ud0104.rpy",
-          detail: "Contains a desync",
+          detail: "-",
         },
       },
     },	
@@ -5634,11 +5634,11 @@ export function useScoreRecords() {
       },
       th14: {
         MarisaB: {
-          score: 1017272480,
-          status: "good",
-          date: "2026-03-19T15:30:00",
+          score: 1152456340,
+          status: "great",
+          date: "2026-03-23T15:30:00",
           replay: "th14_ud0080.rpy",
-          detail: "-",
+          detail: "Contains a desync",
         },
       },
     },
