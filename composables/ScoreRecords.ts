@@ -4513,6 +4513,15 @@ export function useScoreRecords() {
       },
     },
     Oscar: {
+      th06: {
+        MarisaB: {
+          score: 625363960,
+          status: "excellent",
+          date: "2026-03-23T15:30:00",
+          replay: "th6_ud0105.rpy",
+          detail: "-",
+        },
+      },
       th07Ph: {
         SakuyaB: {
           score: 1595560740,
@@ -4533,10 +4542,10 @@ export function useScoreRecords() {
       },
       th13: {
         Marisa: {
-          score: 513265450,
-          status: "good",
-          date: "2025-10-30T15:30:00",
-          replay: "th13_ud0043.rpy",
+          score: 607782530,
+          status: "excellent",
+          date: "2026-03-24T15:30:00",
+          replay: "th13_ud0045.rpy",
           detail: "-",
         },
       },
@@ -4589,6 +4598,13 @@ export function useScoreRecords() {
         },
       },
       th17: {
+        ReimuW: {
+          score: 1624741180,
+          status: "excellent",
+          date: "2026-03-24T15:30:00",
+          replay: "th17_ud0077.rpy",
+          detail: "-",
+        },
         MarisaO: {
           score: 2791861080,
           status: "excellent",
