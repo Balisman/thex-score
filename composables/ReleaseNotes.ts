@@ -28,15 +28,21 @@ export function UseReleases(): Release[] {
   return [
     {
       version: "1.2.32",
-      date: "2026-03-20",
+      date: "2026-03-24",
       changes: [
         { type: "tpl", id: "add_record", game: "th06", shot: "MarisaB", player:"Mechanical Lizard" },
+        { type: "tpl", id: "add_record", game: "th06", shot: "MarisaB", player:"Oscar" },
         { type: "tpl", id: "add_record", game: "th10", shot: "MarisaB", player:"S.K" },
+        { type: "tpl", id: "add_record", game: "th13", shot: "Marisa", player:"Oscar" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"serenity" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"Taprus" },
         { type: "tpl", id: "add_record", game: "th15", shot: "Sanae", player:"Oscar" },
         { type: "tpl", id: "add_record", game: "th17", shot: "ReimuW", player:"Balisman" },
+        { type: "tpl", id: "add_record", game: "th17", shot: "ReimuW", player:"Oscar" },
     	{ type: "tpl", id: "add_record", game: "th17", shot: "YoumuW", player:"Balisman" },
+    	{ type: "tpl", id: "add_record", game: "th17", shot: "YoumuO", player:"Altair" },
+        { type: "tpl", id: "add_record", game: "th20", shot: "ReimuG1", player:"幽谷もこ" },
+        { type: "tpl", id: "add_record", game: "th20", shot: "MarisaG1", player:"幽谷もこ" },
       ],
     },
     {

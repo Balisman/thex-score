@@ -1,6 +1,36 @@
 export function useNewScoreRecords() {
   const newScoreRecords = [
 	{
+      player: "幽谷もこ",
+      game: "th20",
+      shot_type: "MarisaG1",
+      score: 797420180,
+      status: "great",
+      date: "2026-03-24T15:30:00",
+      replay: "th20_ud0062.rpy",
+      detail: "-",
+    },
+	{
+      player: "幽谷もこ",
+      game: "th20",
+      shot_type: "ReimuG1",
+      score: 783282590,
+      status: "great",
+      date: "2026-03-24T15:30:00",
+      replay: "th20_ud0061.rpy",
+      detail: "-",
+    },
+	{
+      player: "Altair",
+      game: "th17",
+      shot_type: "YoumuO",
+      score: 1600731190,
+      status: "good",
+      date: "2026-03-24T15:30:00",
+      replay: "th17_ud0078.rpy",
+      detail: "-",
+    },
+	{
       player: "Oscar",
       game: "th17",
       shot_type: "ReimuW",
