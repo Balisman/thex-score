@@ -209,6 +209,13 @@ export function useScoreRecords() {
         },
       },
       th17: {
+        ReimuW: {
+          score: 1043944370,
+          status: "good",
+          date: "2026-03-25T15:30:00",
+          replay: "th17_ud0079.rpy",
+          detail: "-",
+        },
         YoumuO: {
           score: 1600731190,
           status: "good",

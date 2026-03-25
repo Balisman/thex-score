@@ -28,7 +28,7 @@ export function UseReleases(): Release[] {
   return [
     {
       version: "1.2.32",
-      date: "2026-03-24",
+      date: "2026-03-25",
       changes: [
         { type: "tpl", id: "add_record", game: "th06", shot: "MarisaB", player:"Mechanical Lizard" },
         { type: "tpl", id: "add_record", game: "th06", shot: "MarisaB", player:"Oscar" },
@@ -37,6 +37,7 @@ export function UseReleases(): Release[] {
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"serenity" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"Taprus" },
         { type: "tpl", id: "add_record", game: "th15", shot: "Sanae", player:"Oscar" },
+        { type: "tpl", id: "add_record", game: "th17", shot: "ReimuW", player:"Altair" },
         { type: "tpl", id: "add_record", game: "th17", shot: "ReimuW", player:"Balisman" },
         { type: "tpl", id: "add_record", game: "th17", shot: "ReimuW", player:"Oscar" },
     	{ type: "tpl", id: "add_record", game: "th17", shot: "YoumuW", player:"Balisman" },
