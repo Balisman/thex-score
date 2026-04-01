@@ -208,6 +208,24 @@ export function useScoreRecords() {
           detail: "-",
         },
       },
+      th14: {
+        MarisaB: {
+          score: 1017114960,
+          status: "good",
+          date: "2026-03-27T15:30:00",
+          replay: "th14_ud0082.rpy",
+          detail: "-",
+        },
+      },
+      th15: {
+        Reisen: {
+          score: 757810540,
+          status: "good",
+          date: "2026-03-29T15:30:00",
+          replay: "th15_ud0035.rpy",
+          detail: "-",
+        },
+      },
       th17: {
         ReimuW: {
           score: 1043944370,
@@ -4553,6 +4571,15 @@ export function useScoreRecords() {
           status: "excellent",
           date: "2025-09-12T15:30:00",
           replay: "th11_ud0150.rpy",
+          detail: "-",
+        },
+      },
+      th12: {
+        SanaeB: {
+          score: 703570080,
+          status: "excellent",
+          date: "2026-03-28T15:30:00",
+          replay: "th12_ud0133.rpy",
           detail: "-",
         },
       },
@@ -9750,8 +9777,15 @@ export function useScoreRecords() {
         },
       },
     },
-    節水源一朗 : {
+    節水源一朗: {
       th20: {
+        MarisaY2: {
+          score: 634571780,
+          status: "good",
+          date: "2026-03-26T15:30:00",
+          replay: "th20_ud0063.rpy",
+          detail: "-",
+        },
         MarisaG1: {
           score: 640634740,
           status: "good",
