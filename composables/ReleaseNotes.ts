@@ -42,6 +42,7 @@ export function UseReleases(): Release[] {
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"Altair" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"serenity" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"Taprus" },
+        { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"TRDario" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"Oscar" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"Marbles" },
         { type: "tpl", id: "add_record", game: "th14", shot: "MarisaB", player:"Reima.H" },

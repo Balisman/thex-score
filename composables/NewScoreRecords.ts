@@ -51,6 +51,16 @@ export function useNewScoreRecords() {
       detail: "-",
     },
 	{
+      player: "TRDario",
+      game: "th14",
+      shot_type: "MarisaB",
+      score: 1026409290,
+      status: "good",
+      date: "2026-04-11T15:30:00",
+      replay: "th14_ud0087.rpy",
+      detail: "-",
+    },
+	{
       player: "Marbles",
       game: "th14",
       shot_type: "MarisaB",
