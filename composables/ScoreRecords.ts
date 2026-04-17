@@ -183,9 +183,9 @@ export function useScoreRecords() {
     Altair: {
       th06: {
         MarisaB: {
-          score: 587149040,
-          status: "great",
-          date: "2026-04-08T15:30:00",
+          score: 626399410,
+          status: "excellent",
+          date: "2026-04-14T15:30:00",
           replay: "th6_ud0106.rpy",
           detail: "-",
         },
@@ -857,6 +857,15 @@ export function useScoreRecords() {
           status: "excellent",
           date: "2026-02-15T15:30:00",
           replay: "th17_ud0064.rpy",
+          detail: "-",
+        },
+      },
+      th18: {
+        Sanae: {
+          score: 3036402840,
+          status: "good",
+          date: "2026-04-17T15:30:00",
+          replay: "th18_ud0036.rpy",
           detail: "-",
         },
       },
@@ -10026,8 +10035,15 @@ export function useScoreRecords() {
         },
       },
       th18: {
+        Reimu: {
+          score: 3071745270,
+          status: "good",
+          date: "2026-04-12T15:30:00",
+          replay: "th18_ud0035.rpy",
+          detail: "-",
+        },
         Marisa: {
-          score: 3083797760,
+          score: 3205726250,
           status: "good",
           date: "2026-04-11T15:30:00",
           replay: "th18_ud0034.rpy",
