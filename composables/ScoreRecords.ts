@@ -4383,84 +4383,6 @@ export function useScoreRecords() {
         },
       },
     },
-    nyamu: {
-      th08: {
-        Border: {
-          score: 2649851390,
-          status: "good",
-          date: "2009-10-23T15:30:00",
-          replay: "th8_ud0035.rpy",
-          detail: "-",
-        },
-        Scarlet: {
-          score: 2532529490,
-          status: "good",
-          date: "2009-10-10T15:30:00",
-          replay: "th8_ud0037.rpy",
-          detail: "-",
-        },
-        Netherworld: {
-          score: 2691608320,
-          status: "good",
-          date: "2010-02-17T15:30:00",
-          replay: "th8_ud0040.rpy",
-          detail: "-",
-        },
-        Yukari: {
-          score: 1866135310,
-          status: "good",
-          date: "2009-11-20T15:30:00",
-          replay: "th8_ud0072.rpy",
-          detail: "-",
-        },
-        Remilia: {
-          score: 1949613690,
-          status: "good",
-          date: "2010-02-24T15:30:00",
-          replay: null,
-          detail: "2010年5月4週",
-        },
-        Youmu: {
-          score: 2848766270,
-          status: "great",
-          date: "2009-11-28T15:30:00",
-          replay: "th8_ud0029.rpy",
-          detail: "-",
-        },
-        Yuyuko: {
-          score: 1813178110,
-          status: "good",
-          date: "2009-08-21T15:30:00",
-          replay: "th8_ud0074.rpy",
-          detail: "-",
-        },
-      },
-      th10: {
-        ReimuA: {
-          score: 965591520,
-          status: "good",
-          date: "2010-01-31T15:30:00",
-          replay: null,
-          detail: "2010年1月1～2週",
-        },
-      },
-      th12: {
-        SanaeA: {
-          score: 607704640,
-          status: "great",
-          date: "2011-02-13T15:30:00",
-          replay: "th12_ud0058.rpy",
-          detail: "-",
-        },
-        SanaeB: {
-          score: 712449110,
-          status: "excellent",
-          date: "2010-12-27T15:30:00",
-          replay: "th12_ud0005.rpy",
-          detail: "-",
-        },
-      },
-    },
     nnh: {
       th10: {
         MarisaB: {
@@ -7357,10 +7279,10 @@ export function useScoreRecords() {
       },
       th128: {
         Cirno: {
-          score: 98008080,
-          status: "great",
-          date: "2026-05-06T15:30:00",
-          replay: "th128_ud0018.rpy",
+          score: 100418990,
+          status: "excellent",
+          date: "2026-05-15T15:30:00",
+          replay: "th128_ud0019.rpy",
           detail: "-",
         },
       },
@@ -9264,6 +9186,66 @@ export function useScoreRecords() {
       },
     },
     ニャムニャム: {
+      th08: {
+        Border: {
+          score: 2649851390,
+          status: "good",
+          date: "2009-10-23T15:30:00",
+          replay: "th8_ud0035.rpy",
+          detail: "-",
+        },
+        Scarlet: {
+          score: 2532529490,
+          status: "good",
+          date: "2009-10-10T15:30:00",
+          replay: "th8_ud0037.rpy",
+          detail: "-",
+        },
+        Netherworld: {
+          score: 2691608320,
+          status: "good",
+          date: "2010-02-17T15:30:00",
+          replay: "th8_ud0040.rpy",
+          detail: "-",
+        },
+        Yukari: {
+          score: 1866135310,
+          status: "good",
+          date: "2009-11-20T15:30:00",
+          replay: "th8_ud0072.rpy",
+          detail: "-",
+        },
+        Remilia: {
+          score: 1949613690,
+          status: "good",
+          date: "2010-02-24T15:30:00",
+          replay: null,
+          detail: "2010年5月4週",
+        },
+        Youmu: {
+          score: 2848766270,
+          status: "great",
+          date: "2009-11-28T15:30:00",
+          replay: "th8_ud0029.rpy",
+          detail: "-",
+        },
+        Yuyuko: {
+          score: 1813178110,
+          status: "good",
+          date: "2009-08-21T15:30:00",
+          replay: "th8_ud0074.rpy",
+          detail: "-",
+        },
+      },
+      th10: {
+        ReimuA: {
+          score: 965591520,
+          status: "good",
+          date: "2010-01-31T15:30:00",
+          replay: null,
+          detail: "2010年1月1～2週",
+        },
+      },
       th12: {
         ReimuA: {
           score: 670462130,
