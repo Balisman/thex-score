@@ -36,8 +36,6 @@ export function UseReleases(): Release[] {
         { type: "tpl", id: "add_record", game: "th12", shot: "MarisaA", player:"ニャムニャム" },
         { type: "tpl", id: "add_record", game: "th15", shot: "Reimu", player:"Oscar" },
         { type: "tpl", id: "add_record", game: "th15", shot: "Reisen", player:"idtn" },
-        { type: "tpl", id: "add_record", game: "th15", shot: "Reisen", player:"Zelyx" },
-        { type: "tpl", id: "add_record", game: "th15", shot: "Marisa", player:"Zelyx" },
         { type: "tpl", id: "add_record", game: "th18", shot: "Sakuya", player:"Altair" },
         { type: "tpl", id: "add_record", game: "th18", shot: "Sanae", player:"gryphen" },
         { type: "tpl", id: "add_record", game: "th20", shot: "ReimuG1", player:"ボニスト" },

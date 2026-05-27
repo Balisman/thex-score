@@ -6546,24 +6546,6 @@ export function useScoreRecords() {
         },
       },
     },
-    Zelyx: {
-      th15: {
-        Marisa: {
-          score: 844561760,
-          status: "good",
-          date: "2015-09-25T15:30:00",
-          replay: "th15_ud0047.rpy",
-          detail: "-",
-        },
-        Reisen: {
-          score: 989895730,
-          status: "great",
-          date: "2015-09-28T15:30:00",
-          replay: "th15_ud0048.rpy",
-          detail: "-",
-        },
-      },
-    },
     Zigzagwolf: {
       th14: {
         MarisaB: {
