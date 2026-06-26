@@ -830,7 +830,7 @@ export function useScoreRecords() {
           score: 1874048910,
           status: "excellent",
           date: "2026-06-17T15:30:00",
-          replay: "th17_ud00104.rpy",
+          replay: "th17_ud0104.rpy",
           detail: "-",
         },
         ReimuO: {
@@ -1746,7 +1746,7 @@ export function useScoreRecords() {
           score: 699025580,
           status: "great",
           date: "2026-06-25T15:30:00",
-          replay: "th20_ud0144.rpy",
+          replay: "th12_ud0144.rpy",
           detail: "-",
         },
       },
